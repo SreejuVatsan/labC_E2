@@ -40,5 +40,9 @@ void draw() {
     }
     
     println(amp.analyze()*1000 + "\n");
+    /////added junk lines
+    //asdasdasdasd
+    ///asdasdasdsa
+    //asdasdasdad
 	
 }
