@@ -9,8 +9,6 @@ int amount;
 AudioIn in;
 Amplitude amp;
 
-
-
 void setup() {
     in = new AudioIn(this, 0);
     amp = new Amplitude(this);
